@@ -1,6 +1,6 @@
 # Vista
 
-A round Galaxy Watch 7 watch face for Kartik. Solid black dial, static gray
+A round Galaxy Watch 7 watch face. Solid black dial, static gray
 mountain silhouettes, a sun that crosses the upper arc from 6:00 to 18:00, a
 moon on the same arc from 18:00 to 6:00, a large 12-hour digital time, a short
 date, a battery aurora across the sky, and two user-changeable complications

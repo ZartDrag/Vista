@@ -4,11 +4,11 @@ plugins {
 
 android {
     enableKotlin = false
-    namespace = "com.kartik.vista"
+    namespace = "com.zartdrag.vista"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.kartik.vista"
+        applicationId = "com.zartdrag.vista"
         // WFF version 2 requires Wear OS 5 / API 34, which is what Galaxy Watch 7 launched with.
         minSdk = 34
         targetSdk = 34

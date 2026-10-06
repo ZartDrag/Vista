@@ -18,6 +18,6 @@
 
         <property
             android:name="com.google.wear.watchface.format.publisher"
-            android:value="Kartik Pottekat" />
+            android:value="ZartDrag" />
     </application>
 </manifest>
