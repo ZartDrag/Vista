@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="watch_face_name">Vista</string>
+    <!-- displayName on ComplicationSlot is the string resource name, as in the
+         official Complications sample. -->
+    <string name="slot_12_label">12 o\'clock</string>
+    <string name="slot_6_label">6 o\'clock</string>
+    <string name="comet_tail_label">Comet tail</string>
+    <string name="comet_tail_cyan">Cyan</string>
+    <string name="comet_tail_white">White</string>
+    <string name="comet_tail_orange">Orange</string>
+    <string name="comet_tail_magenta">Magenta</string>
+    <string name="comet_tail_lime">Lime</string>
+    <string name="comet_tail_gold">Gold</string>
+</resources>
